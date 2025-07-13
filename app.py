@@ -92,6 +92,5 @@ if st.button("🚀 Boost My Application"):
             except Exception as e:
                 st.error(f"Gemini API Error: {e}")
 
-
 st.markdown("---")
 st.caption("Built with ❤️ by QubyteFlow")
